@@ -2,7 +2,7 @@
 
 For those curious, the repository is located here: https://git.freepbx.org/projects/FL/repos/freepbx-module-generator/browse
 
-`cd /usr/src wget https://git.freepbx.org/projects/FL/repos/freepbx-module-generator/raw/dist/freepbxgenerator.phar?at=refs%2Fheads%2Fmaster -O freepbxgenerator.phar chmod +x freepbxgenerator.phar`
+`cd /usr/src wget http://raw.githubusercontent.com/atsip-ru/freepbx-module-generator/master/freepbxgenmod?at=refs%2Fheads%2Fmaster -O freepbxgenerator.phar && chmod +x freepbxgenerator.phar`
 
 This will download the module builder phar and make it executable
 
